@@ -1,3 +1,10 @@
+<div align="center">
+
+# 「什么都想尝试馁喵~」
+> 「ㅤㅤ何でも試してみたいにゃ〜ㅤㅤㅤ<br>ㅤㅤㅤI wanna try everything, meow~ㅤ」
+
+</div>
+<div align="center">
 <img src="https://github.com/user-attachments/assets/437b357b-263c-4b3d-9619-5e18918aa713" width = "48%" alt="" align=right />
 <div align="left">
 
@@ -70,4 +77,4 @@
 ![Doubao](https://img.shields.io/badge/Doubao-3370FF?style=flat)
 
 </div>
-
+</div>
