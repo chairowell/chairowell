@@ -84,6 +84,7 @@
 <br>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=chairowell&locale=zh_Hans&date_format=%5BY.%5Dn.j&hide_border=true)
+![GitHub Stats](https://github-readme-stats-neon-psi-82.vercel.app/api?username=chairowell&show_icons=true&hide_border=true)
 
 </div>
 
