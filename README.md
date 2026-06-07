@@ -1,7 +1,7 @@
 <div align="center">
 
-# 「什么都想尝试馁喵~」
-> 「ㅤㅤ何でも試してみたいにゃ〜ㅤㅤㅤ<br>ㅤㅤㅤI wanna try everything, meow~ㅤ」
+# 「什么都想做馁喵！」
+> 「ㅤㅤ何でもやりたいにゃん♪ㅤ ㅤ<br>ㅤ ㅤWanna do everything, meow~ㅤ」
 
 </div>
 <div align="center">
@@ -83,7 +83,7 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chairowell&locale=zh_Hans&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=chairowell&locale=zh_Hans&date_format=%5BY.%5Dn.j&hide_border=true)
 
 </div>
 
