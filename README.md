@@ -5,7 +5,7 @@
 
 </div>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/437b357b-263c-4b3d-9619-5e18918aa713" width = "48%" alt="" align=right />
+<img src="https://github.com/user-attachments/assets/437b357b-263c-4b3d-9619-5e18918aa713" height="666px" alt="" align=right />
 <div align="left">
 
 ### 开发环境
