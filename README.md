@@ -14,7 +14,7 @@
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D4?style=flat&logo=windows&logoColor=white)
 ![Ubuntu 24](https://img.shields.io/badge/Ubuntu_24-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Android 15](https://img.shields.io/badge/Android_15-3DDC84?style=flat&logo=android&logoColor=white)
-![ColorOS 16](https://img.shields.io/badge/ColorOS_16-2AD2C9?style=flat&logo=oppo&logoColor=white)
+![ColorOS 16](https://img.shields.io/badge/ColorOS_16-2AD2C9?style=flat&logo=coursera&logoColor=white)
 ![MIUI 14](https://img.shields.io/badge/MIUI_14-FF6900?style=flat&logo=xiaomi&logoColor=white)
 ![HyperOS 3.1](https://img.shields.io/badge/HyperOS%203.1-2563EB?style=flat&logo=xiaomi&logoColor=white)
 
@@ -42,9 +42,8 @@
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
