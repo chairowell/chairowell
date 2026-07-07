@@ -82,9 +82,10 @@
 ![Doubao](https://img.shields.io/badge/Doubao-3370FF?style=flat)
 
 <br>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=chairowell&locale=zh_Hans&date_format=%5BY.%5Dn.j&hide_border=true)
-![GitHub Stats](https://github-readme-stats-neon-psi-82.vercel.app/api?username=chairowell&show_icons=true&hide_border=true)
+  
+<img width="100%" alt="" src="https://github.com/user-attachments/assets/d625eeb2-9727-488d-8a7f-38ea8f6fd7c4" />
+<img width="49%" alt="" src="https://streak-stats.demolab.com?user=chairowell&locale=zh_Hans&date_format=%5BY.%5Dn.j&hide_border=true" />
+<img width="49%" alt="" src="https://github-readme-stats-neon-psi-82.vercel.app/api?username=chairowell&show_icons=true&hide_border=true" />
 
 </div>
 
