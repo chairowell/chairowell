@@ -51,6 +51,7 @@
 
 ![TOML](https://img.shields.io/badge/TOML-9C4121?style=flat&logo=toml&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
 ![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=flat&logo=mermaid&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019833?style=flat&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
