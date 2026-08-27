@@ -13,10 +13,14 @@
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D4?style=flat&logo=windows&logoColor=white)
 ![Ubuntu 24](https://img.shields.io/badge/Ubuntu_24-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![DietPi](https://img.shields.io/badge/DietPi-08A652?style=flat&logo=debian&logoColor=white)
+![Raspberry Pi 3B](https://img.shields.io/badge/Raspberry_Pi_3B-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Android 15](https://img.shields.io/badge/Android_15-3DDC84?style=flat&logo=android&logoColor=white)
 ![ColorOS 16](https://img.shields.io/badge/ColorOS_16-2AD2C9?style=flat&logo=coursera&logoColor=white)
 ![MIUI 14](https://img.shields.io/badge/MIUI_14-FF6900?style=flat&logo=xiaomi&logoColor=white)
 ![HyperOS 3.1](https://img.shields.io/badge/HyperOS%203.1-2563EB?style=flat&logo=xiaomi&logoColor=white)
+![ESP32-S3](https://img.shields.io/badge/ESP32_S3-E7352C?style=flat&logo=espressif&logoColor=white)
 
 ### 正在学习
 
@@ -38,14 +42,19 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Lit](https://img.shields.io/badge/Lit-324FFF?style=flat&logo=lit&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP_IDF-E7352C?style=flat&logo=espressif&logoColor=white)
+
 
 ### 辅助工具
 
@@ -53,8 +62,23 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
 ![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=flat&logo=mermaid&logoColor=white)
+![VitePress](https://img.shields.io/badge/VitePress-646CFF?style=flat&logo=vite&logoColor=white)
+![VuePress](https://img.shields.io/badge/VuePress-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019833?style=flat&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+
+### 云服务
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-000000?style=flat&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![EdgeOne](https://img.shields.io/badge/EdgeOne-0052D9?style=flat&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
 
 ### 活动平台
 
