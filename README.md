@@ -96,13 +96,14 @@
 ### IDE & AI
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Trae](https://img.shields.io/badge/Trae-00D47E?style=flat)
-![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat)
-![Claude](https://img.shields.io/badge/Claude-D4A574?style=flat&logo=anthropic&logoColor=white)
+![Trae](https://img.shields.io/badge/Trae-00D47E?style=flat&logo=trae&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat&logo=opencode&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D4A574?style=flat&logo=claudecode&logoColor=white)
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat&logo=deepseek&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/Qwen-6950EF?style=flat&logo=qwen&logoColor=white)
 ![Doubao](https://img.shields.io/badge/Doubao-3370FF?style=flat)
 
 <br>
