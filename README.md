@@ -12,6 +12,8 @@
 
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D4?style=flat&logo=windows&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)
 ![Ubuntu 24](https://img.shields.io/badge/Ubuntu_24-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![DietPi](https://img.shields.io/badge/DietPi-08A652?style=flat&logo=debian&logoColor=white)
@@ -91,6 +93,8 @@
 ![Steam](https://img.shields.io/badge/Steam-1B2838?style=flat&logo=steam&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)
 ![Pixiv](https://img.shields.io/badge/Pixiv-0096FA?style=flat&logo=pixiv&logoColor=white)
+![Bangumi](https://img.shields.io/badge/Bangumi-FE7397?style=flat&logo=bangumi&logoColor=white)
+![AniList](https://img.shields.io/badge/AniList-02A9FF?style=flat&logo=anilist&logoColor=white)
 ![Afdian](https://img.shields.io/badge/Afdian-FE7397?style=flat&logo=afdian&logoColor=white)
 
 ### IDE & AI
@@ -99,6 +103,7 @@
 ![Trae](https://img.shields.io/badge/Trae-00D47E?style=flat&logo=trae&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat&logo=opencode&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D4A574?style=flat&logo=claudecode&logoColor=white)
+![Oh My Pi](https://img.shields.io/badge/Oh_My_Pi-6B4FBB?style=flat&logo=pi&logoColor=white)
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
